@@ -1,6 +1,6 @@
 1) №
-[A[C[C[C[No.
 2) Title
-3)Expected Result
-4) Actual Result [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A [C[C[C[C[C[C[C[C[CExpected Result[B
-6) Status
+3) Expected Result
+4) Actual Result
+5) Status
+6) Bug Report link
